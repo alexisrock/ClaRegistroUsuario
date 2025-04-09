@@ -1,0 +1,12 @@
+D:\Documentos\Projects\C#\ClaRegistroUsuario\Domain\bin\Release\net8.0\Domain.deps.json
+D:\Documentos\Projects\C#\ClaRegistroUsuario\Domain\bin\Release\net8.0\Domain.dll
+D:\Documentos\Projects\C#\ClaRegistroUsuario\Domain\bin\Release\net8.0\Domain.pdb
+D:\Documentos\Projects\C#\ClaRegistroUsuario\Domain\obj\Release\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Projects\C#\ClaRegistroUsuario\Domain\obj\Release\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Documentos\Projects\C#\ClaRegistroUsuario\Domain\obj\Release\net8.0\Domain.AssemblyInfo.cs
+D:\Documentos\Projects\C#\ClaRegistroUsuario\Domain\obj\Release\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Documentos\Projects\C#\ClaRegistroUsuario\Domain\obj\Release\net8.0\Domain.sourcelink.json
+D:\Documentos\Projects\C#\ClaRegistroUsuario\Domain\obj\Release\net8.0\Domain.dll
+D:\Documentos\Projects\C#\ClaRegistroUsuario\Domain\obj\Release\net8.0\refint\Domain.dll
+D:\Documentos\Projects\C#\ClaRegistroUsuario\Domain\obj\Release\net8.0\Domain.pdb
+D:\Documentos\Projects\C#\ClaRegistroUsuario\Domain\obj\Release\net8.0\ref\Domain.dll

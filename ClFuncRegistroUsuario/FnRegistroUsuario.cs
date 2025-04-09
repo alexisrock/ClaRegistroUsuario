@@ -39,15 +39,17 @@ namespace ClFuncRegistroUsuario
                 }
                 var user = await _sender.Send(data);
 
-
+                _logger.LogInformation("function process with success.");
                 return new OkObjectResult(user);
+
             }
             catch (Exception ex)
             {
-
-                throw ex;
+                var message = ex.Message ?? ex.InnerException.Message;                
+                _logger.LogError("error: "+ message);
             }
-           
+             
+        
         }
     }
 }

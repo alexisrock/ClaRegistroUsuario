@@ -44,7 +44,7 @@ namespace Application.UseCases.RegistroUsuario
                 await repository.Create(producto);
                 return new BaseResponse()
                 {
-                    message = "Producto registrado con exito"
+                    message = "Usuario registrado con exito"
                 };
             }
             catch (Exception ex) when (ex is ApiException)

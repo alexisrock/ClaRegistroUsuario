@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6378569A-578D-4C0F-99D8-42281109E3D1}|ClFuncRegistroUsuario\\ClFuncRegistroUsuario.csproj|d:\\documentos\\projects\\c#\\claregistrousuario\\clfuncregistrousuario\\fnregistrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6378569A-578D-4C0F-99D8-42281109E3D1}|ClFuncRegistroUsuario\\ClFuncRegistroUsuario.csproj|solutionrelative:clfuncregistrousuario\\fnregistrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FnRegistroUsuario.cs",
+              "DocumentMoniker": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\ClFuncRegistroUsuario\\FnRegistroUsuario.cs",
+              "RelativeDocumentMoniker": "ClFuncRegistroUsuario\\FnRegistroUsuario.cs",
+              "ToolTip": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\ClFuncRegistroUsuario\\FnRegistroUsuario.cs",
+              "RelativeToolTip": "ClFuncRegistroUsuario\\FnRegistroUsuario.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:43:18.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CEB12AC-6D4F-42A4-BE1B-FEEA398D6FAD}|Infrastructure\\Infrastructure.csproj|d:\\documentos\\projects\\c#\\claregistrousuario\\infrastructure\\configuration\\configurationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CEB12AC-6D4F-42A4-BE1B-FEEA398D6FAD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configuration\\configurationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CEB12AC-6D4F-42A4-BE1B-FEEA398D6FAD}|Infrastructure\\Infrastructure.csproj|d:\\documentos\\projects\\c#\\claregistrousuario\\infrastructure\\persistence\\pruebacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CEB12AC-6D4F-42A4-BE1B-FEEA398D6FAD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\pruebacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6378569A-578D-4C0F-99D8-42281109E3D1}|ClFuncRegistroUsuario\\ClFuncRegistroUsuario.csproj|d:\\documentos\\projects\\c#\\claregistrousuario\\clfuncregistrousuario\\fnregistrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6378569A-578D-4C0F-99D8-42281109E3D1}|ClFuncRegistroUsuario\\ClFuncRegistroUsuario.csproj|solutionrelative:clfuncregistrousuario\\fnregistrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2FB0A26-9EA9-416B-93C3-09F111AF97D1}|Application\\Application.csproj|d:\\documentos\\projects\\c#\\claregistrousuario\\application\\usecases\\registrousuario\\registrousuariocomandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2FB0A26-9EA9-416B-93C3-09F111AF97D1}|Application\\Application.csproj|solutionrelative:application\\usecases\\registrousuario\\registrousuariocomandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D714FAA-4367-4EB8-AEC9-567EA8B70534}|Domain\\Domain.csproj|d:\\documentos\\projects\\c#\\claregistrousuario\\domain\\entities\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D714FAA-4367-4EB8-AEC9-567EA8B70534}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CEB12AC-6D4F-42A4-BE1B-FEEA398D6FAD}|Infrastructure\\Infrastructure.csproj|d:\\documentos\\projects\\c#\\claregistrousuario\\infrastructure\\persistence\\setuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CEB12AC-6D4F-42A4-BE1B-FEEA398D6FAD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\setuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6378569A-578D-4C0F-99D8-42281109E3D1}|ClFuncRegistroUsuario\\ClFuncRegistroUsuario.csproj|d:\\documentos\\projects\\c#\\claregistrousuario\\clfuncregistrousuario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6378569A-578D-4C0F-99D8-42281109E3D1}|ClFuncRegistroUsuario\\ClFuncRegistroUsuario.csproj|solutionrelative:clfuncregistrousuario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2FB0A26-9EA9-416B-93C3-09F111AF97D1}|Application\\Application.csproj|d:\\documentos\\projects\\c#\\claregistrousuario\\application\\configuration\\containerid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2FB0A26-9EA9-416B-93C3-09F111AF97D1}|Application\\Application.csproj|solutionrelative:application\\configuration\\containerid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,105 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ConfigurationConfiguration.cs",
-              "DocumentMoniker": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\Infrastructure\\Configuration\\ConfigurationConfiguration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Configuration\\ConfigurationConfiguration.cs",
-              "ToolTip": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\Infrastructure\\Configuration\\ConfigurationConfiguration.cs*",
-              "RelativeToolTip": "Infrastructure\\Configuration\\ConfigurationConfiguration.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T16:18:55.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PruebaContext.cs",
-              "DocumentMoniker": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\Infrastructure\\Persistence\\PruebaContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\PruebaContext.cs",
-              "ToolTip": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\Infrastructure\\Persistence\\PruebaContext.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\PruebaContext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T16:18:52.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\Domain\\Entities\\Configuration.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Configuration.cs",
-              "ToolTip": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\Domain\\Entities\\Configuration.cs",
-              "RelativeToolTip": "Domain\\Entities\\Configuration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAArwAwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T16:17:30.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SetupRepository.cs",
-              "DocumentMoniker": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\Infrastructure\\Persistence\\SetupRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\SetupRepository.cs",
-              "ToolTip": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\Infrastructure\\Persistence\\SetupRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\SetupRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T16:08:54.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\ClFuncRegistroUsuario\\Program.cs",
-              "RelativeDocumentMoniker": "ClFuncRegistroUsuario\\Program.cs",
-              "ToolTip": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\ClFuncRegistroUsuario\\Program.cs",
-              "RelativeToolTip": "ClFuncRegistroUsuario\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T15:58:40.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ContainerID.cs",
-              "DocumentMoniker": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\Application\\Configuration\\ContainerID.cs",
-              "RelativeDocumentMoniker": "Application\\Configuration\\ContainerID.cs",
-              "ToolTip": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\Application\\Configuration\\ContainerID.cs",
-              "RelativeToolTip": "Application\\Configuration\\ContainerID.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T15:58:32.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "FnRegistroUsuario.cs",
               "DocumentMoniker": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\ClFuncRegistroUsuario\\FnRegistroUsuario.cs",
               "RelativeDocumentMoniker": "ClFuncRegistroUsuario\\FnRegistroUsuario.cs",
               "ToolTip": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\ClFuncRegistroUsuario\\FnRegistroUsuario.cs",
               "RelativeToolTip": "ClFuncRegistroUsuario\\FnRegistroUsuario.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAhwCcAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T15:20:46.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegistroUsuarioComandHandler.cs",
-              "DocumentMoniker": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\Application\\UseCases\\RegistroUsuario\\RegistroUsuarioComandHandler.cs",
-              "RelativeDocumentMoniker": "Application\\UseCases\\RegistroUsuario\\RegistroUsuarioComandHandler.cs",
-              "ToolTip": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\Application\\UseCases\\RegistroUsuario\\RegistroUsuarioComandHandler.cs",
-              "RelativeToolTip": "Application\\UseCases\\RegistroUsuario\\RegistroUsuarioComandHandler.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAACkAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T15:09:20.103Z",
+              "WhenOpened": "2025-04-09T17:43:18.939Z",
               "EditorCaption": ""
             }
           ]
