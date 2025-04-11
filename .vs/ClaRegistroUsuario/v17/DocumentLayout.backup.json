@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D2FB0A26-9EA9-416B-93C3-09F111AF97D1}|Application\\Application.csproj|d:\\documentos\\projects\\c#\\claregistrousuario\\application\\usecases\\registrousuario\\registrousuariocomandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FB0A26-9EA9-416B-93C3-09F111AF97D1}|Application\\Application.csproj|solutionrelative:application\\usecases\\registrousuario\\registrousuariocomandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6378569A-578D-4C0F-99D8-42281109E3D1}|ClFuncRegistroUsuario\\ClFuncRegistroUsuario.csproj|d:\\documentos\\projects\\c#\\claregistrousuario\\clfuncregistrousuario\\fnregistrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6378569A-578D-4C0F-99D8-42281109E3D1}|ClFuncRegistroUsuario\\ClFuncRegistroUsuario.csproj|solutionrelative:clfuncregistrousuario\\fnregistrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6378569A-578D-4C0F-99D8-42281109E3D1}|ClFuncRegistroUsuario\\ClFuncRegistroUsuario.csproj|d:\\documentos\\projects\\c#\\claregistrousuario\\clfuncregistrousuario\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6378569A-578D-4C0F-99D8-42281109E3D1}|ClFuncRegistroUsuario\\ClFuncRegistroUsuario.csproj|solutionrelative:clfuncregistrousuario\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D714FAA-4367-4EB8-AEC9-567EA8B70534}|Domain\\Domain.csproj|d:\\documentos\\projects\\c#\\claregistrousuario\\domain\\enums\\paramconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D714FAA-4367-4EB8-AEC9-567EA8B70534}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\paramconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CEB12AC-6D4F-42A4-BE1B-FEEA398D6FAD}|Infrastructure\\Infrastructure.csproj|d:\\documentos\\projects\\c#\\claregistrousuario\\infrastructure\\persistence\\setuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CEB12AC-6D4F-42A4-BE1B-FEEA398D6FAD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\setuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CEB12AC-6D4F-42A4-BE1B-FEEA398D6FAD}|Infrastructure\\Infrastructure.csproj|d:\\documentos\\projects\\c#\\claregistrousuario\\infrastructure\\configuration\\configurationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CEB12AC-6D4F-42A4-BE1B-FEEA398D6FAD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configuration\\configurationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +34,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\ClFuncRegistroUsuario\\local.settings.json",
+              "RelativeDocumentMoniker": "ClFuncRegistroUsuario\\local.settings.json",
+              "ToolTip": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\ClFuncRegistroUsuario\\local.settings.json",
+              "RelativeToolTip": "ClFuncRegistroUsuario\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T23:13:26.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfigurationConfiguration.cs",
+              "DocumentMoniker": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\Infrastructure\\Configuration\\ConfigurationConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configuration\\ConfigurationConfiguration.cs",
+              "ToolTip": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\Infrastructure\\Configuration\\ConfigurationConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configuration\\ConfigurationConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:03:28.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParamConfig.cs",
+              "DocumentMoniker": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\Domain\\Enums\\ParamConfig.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\ParamConfig.cs",
+              "ToolTip": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\Domain\\Enums\\ParamConfig.cs",
+              "RelativeToolTip": "Domain\\Enums\\ParamConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:59:29.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SetupRepository.cs",
+              "DocumentMoniker": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\Infrastructure\\Persistence\\SetupRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\SetupRepository.cs",
+              "ToolTip": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\Infrastructure\\Persistence\\SetupRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\SetupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:44:01.747Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RegistroUsuarioComandHandler.cs",
+              "DocumentMoniker": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\Application\\UseCases\\RegistroUsuario\\RegistroUsuarioComandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\RegistroUsuario\\RegistroUsuarioComandHandler.cs",
+              "ToolTip": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\Application\\UseCases\\RegistroUsuario\\RegistroUsuarioComandHandler.cs",
+              "RelativeToolTip": "Application\\UseCases\\RegistroUsuario\\RegistroUsuarioComandHandler.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwEoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:34:37.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FnRegistroUsuario.cs",
               "DocumentMoniker": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\ClFuncRegistroUsuario\\FnRegistroUsuario.cs",
               "RelativeDocumentMoniker": "ClFuncRegistroUsuario\\FnRegistroUsuario.cs",
               "ToolTip": "D:\\Documentos\\Projects\\C#\\ClaRegistroUsuario\\ClFuncRegistroUsuario\\FnRegistroUsuario.cs",
               "RelativeToolTip": "ClFuncRegistroUsuario\\FnRegistroUsuario.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDAAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T17:43:18.939Z",
               "EditorCaption": ""

@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Extensions.Logging;
+using static Microsoft.ApplicationInsights.MetricDimensionNames.TelemetryContext;
 
 namespace ClFuncRegistroUsuario
 {
@@ -48,8 +49,8 @@ namespace ClFuncRegistroUsuario
                 var message = ex.Message ?? ex.InnerException.Message;                
                 _logger.LogError("error: "+ message);
             }
-             
-        
+
+            return null;
         }
     }
 }
