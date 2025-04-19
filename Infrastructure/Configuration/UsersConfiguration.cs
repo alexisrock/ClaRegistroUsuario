@@ -19,7 +19,7 @@ namespace Infrastructure.Configuration
             builder.Property(u => u.Email).IsRequired().HasMaxLength(255);
             builder.Property(u => u.Password).IsRequired().HasMaxLength(4000);
             builder.Property(u => u.Celular).IsRequired().HasMaxLength(10);
-            builder.Property(u => u.Fecha_registro);
+            builder.Property(u => u.Fecharegistro);
             builder.Property(u => u.Estado);
         }
 

@@ -23,9 +23,9 @@ D:\Documentos\Projects\C#\ClaRegistroUsuario\Application\obj\Debug\net8.0\Applic
 D:\Documentos\Projects\C#\ClaRegistroUsuario\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
 D:\Documentos\Projects\C#\ClaRegistroUsuario\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
 D:\Documentos\Projects\C#\ClaRegistroUsuario\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\Documentos\Projects\C#\ClaRegistroUsuario\Application\obj\Debug\net8.0\Application.sourcelink.json
 D:\Documentos\Projects\C#\ClaRegistroUsuario\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
 D:\Documentos\Projects\C#\ClaRegistroUsuario\Application\obj\Debug\net8.0\Application.dll
 D:\Documentos\Projects\C#\ClaRegistroUsuario\Application\obj\Debug\net8.0\refint\Application.dll
 D:\Documentos\Projects\C#\ClaRegistroUsuario\Application\obj\Debug\net8.0\Application.pdb
 D:\Documentos\Projects\C#\ClaRegistroUsuario\Application\obj\Debug\net8.0\ref\Application.dll
-D:\Documentos\Projects\C#\ClaRegistroUsuario\Application\obj\Debug\net8.0\Application.sourcelink.json

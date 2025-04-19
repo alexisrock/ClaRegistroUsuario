@@ -2,13 +2,13 @@
 {
     public class Users
     {
-        public Users(string nombre, string email, string password, string celular, DateTime fecha_registro, bool estado)
+        public Users(string nombre, string email, string password, string celular, DateTime fecharegistro, bool estado)
         {
             Nombre = nombre;
             Email = email;
             Password = password;
             Celular = celular;
-            Fecha_registro = fecha_registro;
+            Fecharegistro = fecharegistro;
             Estado = estado;
         }
 
@@ -17,7 +17,7 @@
         public string Email { get; set; }
         public string Password { get; set; }
         public string Celular { get; set; }
-        public DateTime Fecha_registro { get; set; }
+        public DateTime Fecharegistro { get; set; }
         public bool Estado { get; set; }
 
 

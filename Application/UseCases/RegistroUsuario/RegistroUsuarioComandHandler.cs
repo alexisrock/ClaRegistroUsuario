@@ -38,6 +38,7 @@ namespace Application.UseCases.RegistroUsuario
                 {
                     throw new ApiException(result.Errors.ToString(), (int)System.Net.HttpStatusCode.BadRequest);
                 }
+                await ValidateEmailExits(request.Email);
 
                 var password =  await EncryptedPassword(DecodeBase64Password(request.Password));
                 var producto = new Users(request.Name, request.Email, password,request.CelPhoneNumber, DateTime.Now, true);
@@ -57,6 +58,13 @@ namespace Application.UseCases.RegistroUsuario
             }
         }
 
+
+        private async Task ValidateEmailExits(string email){
+
+            var usuario = await repository.GetByParam(x => x.Email.Equals(email));
+            if (usuario is not null)
+                throw new ApiException("Ya existe un usuario con ese correo", (int)System.Net.HttpStatusCode.BadRequest);
+        }
         private static string DecodeBase64Password(string password)
         {
             var base64EncodedBytes = System.Convert.FromBase64String(password);

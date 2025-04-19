@@ -16,6 +16,7 @@ D:\Documentos\Projects\C#\ClaRegistroUsuario\Domain\obj\Debug\net8.0\Domain.Gene
 D:\Documentos\Projects\C#\ClaRegistroUsuario\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
 D:\Documentos\Projects\C#\ClaRegistroUsuario\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
 D:\Documentos\Projects\C#\ClaRegistroUsuario\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Documentos\Projects\C#\ClaRegistroUsuario\Domain\obj\Debug\net8.0\Domain.sourcelink.json
 D:\Documentos\Projects\C#\ClaRegistroUsuario\Domain\obj\Debug\net8.0\Domain.dll
 D:\Documentos\Projects\C#\ClaRegistroUsuario\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\Documentos\Projects\C#\ClaRegistroUsuario\Domain\obj\Debug\net8.0\Domain.pdb

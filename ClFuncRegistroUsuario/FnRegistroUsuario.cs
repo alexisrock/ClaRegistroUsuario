@@ -2,6 +2,7 @@ using System.Text.Json;
 using Application.UseCases.RegistroUsuario;
 using Azure.Core;
 using MediatR;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Azure.Functions.Worker;
@@ -10,6 +11,7 @@ using static Microsoft.ApplicationInsights.MetricDimensionNames.TelemetryContext
 
 namespace ClFuncRegistroUsuario
 {
+    [EnableCors("AllowSpecificOrigin")]
     public class FnRegistroUsuario
     {
         private readonly ILogger<FnRegistroUsuario> _logger;
@@ -23,6 +25,7 @@ namespace ClFuncRegistroUsuario
             this._sender = _sender;
         }
 
+        [EnableCors("AllowSpecificOrigin")]
         [Function("FnRegistroUsuario")]
         public async Task<IActionResult> Run([HttpTrigger(AuthorizationLevel.Function, "get", "post")] HttpRequest req)
         {

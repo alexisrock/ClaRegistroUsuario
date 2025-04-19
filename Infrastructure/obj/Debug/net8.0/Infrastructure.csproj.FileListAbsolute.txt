@@ -23,6 +23,7 @@ D:\Documentos\Projects\C#\ClaRegistroUsuario\Infrastructure\obj\Debug\net8.0\Inf
 D:\Documentos\Projects\C#\ClaRegistroUsuario\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
 D:\Documentos\Projects\C#\ClaRegistroUsuario\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
 D:\Documentos\Projects\C#\ClaRegistroUsuario\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Documentos\Projects\C#\ClaRegistroUsuario\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
 D:\Documentos\Projects\C#\ClaRegistroUsuario\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
 D:\Documentos\Projects\C#\ClaRegistroUsuario\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
 D:\Documentos\Projects\C#\ClaRegistroUsuario\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll

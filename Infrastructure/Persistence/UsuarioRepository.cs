@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -22,6 +23,11 @@ namespace Infrastructure.Persistence
         public async Task Create(Users objeto)
         {
             await repository.Insert(objeto);
-        }  
+        }
+
+        public async Task<Users?> GetByParam(Expression<Func<Domain.Entities.Users, bool>> obj)
+        {
+           return await repository.GetByParam(obj);
+        }
     }
 }
